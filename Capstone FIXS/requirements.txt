@@ -1,0 +1,7 @@
+Flask
+google-cloud-firestore
+google-cloud-storage
+tensorflow
+requests
+werkzeug
+numpy
